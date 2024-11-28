@@ -22,7 +22,7 @@ print("Scores: Math: " + str(math_score) +
       ", History: " + str(history_score))
 
 
-name = "John"
-surname = "Doe"
+name = "luka"
+surname = "gio"
 age = 20
 print("My name is " + name + " " + surname + " and I am " + str(age) + " years old.") 
